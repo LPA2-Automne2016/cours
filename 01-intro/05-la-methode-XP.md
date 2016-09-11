@@ -59,4 +59,4 @@ System-wide integration testing was encouraged, initially, as a daily end-of-day
  
 Suite : [le build pipeline](../02-outils/00-le-build-pipeline.md)
 
- [XP]:(https://en.wikipedia.org/wiki/Extreme_programming)
+[XP]:(https://en.wikipedia.org/wiki/Extreme_programming)

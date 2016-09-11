@@ -5,9 +5,9 @@
 
 ## Les défis associés à cette contrainte:
 1. LA QUALITE : Comment garantir une qualité en allant plus vite ?
-2. LA RIGUEUR : Aller plus vite, c'est plus de chance faire des erreurs ?
+2. LA RIGUEUR : Aller plus vite, c'est plus de chance de faire des erreurs ?
 3. LA FLEXIBILITE : Aller plus vite, c'est avoir plus de temps après la mise en production ?
-4. LA VITESSE : Ou peut on gagner du temps dans les cycle ?
+4. LA VITESSE : Où peut on gagner du temps dans les cycles ?
 
 ## Références
 [Time to Market]:https://en.wikipedia.org/wiki/Time_to_market

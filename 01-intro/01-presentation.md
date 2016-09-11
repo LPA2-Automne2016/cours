@@ -1,6 +1,6 @@
 # Introduction
 ## Présentation Générale
-* Noms Prénom
+* Nom Prénom
 * Semestre
 * Etudes précédentes
 * Niveau d'informatique pour le web

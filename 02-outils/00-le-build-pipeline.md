@@ -4,6 +4,6 @@
 source: http://www.slideshare.net/Urbancode/enterprise-devops-scaling-build-deploy-test-release
 
 # Objectif 
-Faire progresser l'application d'etape en étape depuis le poste du développeur vers  la production, en validant chaque étape au passage
+Faire progresser l'application d'étape en étape depuis le poste du développeur vers la production, en validant chaque étape au passage
 
 Suite : [La gestion du code](./01-gestion-du-code.md)
