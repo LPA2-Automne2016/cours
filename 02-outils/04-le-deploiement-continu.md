@@ -24,5 +24,7 @@ Ces technologies ne font pas partie du périmètre du cours, mais sont néanmoin
 * Chef : https://www.chef.io/chef/
 * Ansible : https://www.ansible.com/
 * vagrant : https://www.vagrantup.com/
+ 
+Suite : [le choix du framework](./05-le-framework.md)
 
 [CD]:https://en.wikipedia.org/wiki/Continuous_delivery
