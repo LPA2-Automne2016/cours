@@ -1,12 +1,14 @@
 # LPA2 Automne 2016
 ## Cours
-Ce projet contient les thèmes qui seront abordés lors des différentes sessions de cours.
-Dans la mesure du possible, les différents sujets comportent des liens pour plus d'infos sur les différents thèmes.
+Ce projet contient les thÃ¨mes qui seront abordÃ©s lors des diffÃ©rentes sessions de cours.
+Dans la mesure du possible, les diffÃ©rents sujets comportent des liens pour plus d'infos sur les diffÃ©rents thÃ¨mes.
 
 ## Collaboration
-La documentation initiale comporte les éléments nécessaires pour démarrer et aborder les différents sujets. N'hésitez pas soumettre des pull request pour enrichir le contenu des différentes pages ! **Tout le monde en bénéficiera.**
+La documentation initiale comporte les Ã©lÃ©ments nÃ©cessaires pour dÃ©marrer et aborder les diffÃ©rents sujets. N'hÃ©sitez pas soumettre des pull request pour enrichir le contenu des diffÃ©rentes pages ! **Tout le monde en bÃ©nÃ©ficiera.**
 
 Pour ce faire : 
 * Forkez ce repository 
 * modifiez/annotez/enrichissez le contenu 
 * soumettez une pull request.
+
+ok
