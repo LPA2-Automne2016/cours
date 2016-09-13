@@ -9,6 +9,8 @@ La documentation initiale comporte les éléments nécessaires pour démarrer et
 
 je ne trouve pas mes espaces dans le projet
 
+exemples de mofications 
+
 
 
 Pour ce faire : 
