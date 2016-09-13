@@ -10,6 +10,6 @@
 
 ## Récapitulatif des Objectifs
 
-*test modification 1 
+*test modification 1
 
 [suite](./02-ingenieur.md)
