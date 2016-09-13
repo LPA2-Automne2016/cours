@@ -9,5 +9,5 @@
 * Objectif(s) en venant à ce cours
 
 ## Récapitulatif des Objectifs
-   HTNL&CSS
+   HTML&CSS
 [suite](./02-ingenieur.md)
