@@ -7,7 +7,7 @@ Dans la mesure du possible, les différents sujets comportent des liens pour plu
 La documentation initiale comporte les éléments nécessaires pour démarrer et aborder les différents sujets. N'hésitez pas soumettre des pull request pour enrichir le contenu des différentes pages ! **Tout le monde en bénéficiera.**
 
 
-
+je ne trouve pas mes espaces dans le projet
 
 
 
