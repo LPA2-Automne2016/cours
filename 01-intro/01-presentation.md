@@ -11,6 +11,7 @@
 ## Récapitulatif des Objectifs
 
  Apprendre CSS/SASS
+ Introduire CoffeeScript
 
 
 [suite](./02-ingenieur.md)
