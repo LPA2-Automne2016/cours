@@ -1,14 +1,15 @@
 # Introduction
-## Présentation Générale
-* Nom Prénom
+## PrÃ©sentation GÃ©nÃ©rale
+* Nom PrÃ©nom
 * Semestre
-* Etudes précédentes
+* Etudes prÃ©cÃ©dentes
 * Niveau d'informatique pour le web
-* Métier cible (Ingénieur Réseau/Developpement, etc n'est pas un métier !)
+* MÃ©tier cible (IngÃ©nieur RÃ©seau/Developpement, etc n'est pas un mÃ©tier !)
 * Niveau d'Anglais
-* Objectif(s) en venant à ce cours
+* Objectif(s) en venant Ã  ce cours
 
-## Récapitulatif des Objectifs
+*CSS JS
+## RÃ©capitulatif des Objectifs
 
 
 [suite](./02-ingenieur.md)
