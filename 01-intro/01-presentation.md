@@ -10,7 +10,7 @@
 
 ## Récapitulatif des Objectifs
 
-*comparer les choses
-*changer l'introduction
+* comparer les choses
+* changer l'introduction
 
 [suite](./02-ingenieur.md)
