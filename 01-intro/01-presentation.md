@@ -1,7 +1,7 @@
 # Introduction
 ## Présentation Générale
-* Nom Prénom
-* Semestre
+* Nom Prénom Age
+* Semestre en cours
 * Etudes précédentes
 * Niveau d'informatique pour le web
 * Métier cible (Ingénieur Réseau/Developpement, etc n'est pas un métier !)
@@ -9,11 +9,6 @@
 * Objectif(s) en venant à ce cours
 
 ## Récapitulatif des Objectifs
-
-* mettre en place un système de développement moderne orienté DevOps
-* disposer en sortant d'un CV *recrutable* (avec un projet github)
-* avancer le plus koin possible sur HTML
-* comprendre et appréhender XP
 
 
 [suite](./02-ingenieur.md)
