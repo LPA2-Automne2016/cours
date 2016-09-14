@@ -4,9 +4,10 @@
 
 Le HTML est le langage qui compose les pages web. L'abbréviation signifie **H**yper**T**ext**M**arkup**L**anguage. 
 Un "markup language" est un language composé de balises ouvrantes et fermantes, comme par exemple ```<h1>ceci est un titre</h1>```
-On retrouve le titre entouré de la balise **<h1>** et de sa balise fermante **</h1>**
+On retrouve le titre entouré de la balise ```<h1>``` et de sa balise fermante ```</h1>```
 
 La liste des balises possible est définie par avance, ainsi que leur comportement. Vous trouverez [ici une liste (partielle) des balises de base](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3/memento-des-balises-html), ainsi que leur utilité. 
+
 Pour plus d'info, n'hésitez pas à suivre le tutorial : https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3
 
 ## Contenu d'une page :
@@ -28,8 +29,8 @@ Ceci est le strict minimun pour une page web valide :
 </html>
 ```
 
-**ATTENTION** Html est relativement contraignant : toute balise ouverte (ex: <h1>) doit obligatoirement être fermée ensuite (</h1>).
-Petite exception : une balise comme celle ci ``` <meta charset="utf-8" />``` (notez le / à la fin de la balise) est à la fois ouvrante et fermante. 
+**ATTENTION** Html est relativement contraignant : toute balise ouverte (ex: ```<h1>```) doit obligatoirement être fermée ensuite (```</h1>```).
+Petite exception : une balise comme celle ci ```<meta charset="utf-8" />``` (notez le / à la fin de la balise) est à la fois ouvrante et fermante. 
 
 les deux écritures sont donc équivalentes : ```<BR><BR/>``` est la meme chose que ```<BR/>```
 
