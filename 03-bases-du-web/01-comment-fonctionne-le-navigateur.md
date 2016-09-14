@@ -36,3 +36,5 @@ plus de détails : https://tools.ietf.org/html/rfc7231
 Dans l'exemple ci dessus, la partie qui nous intéresse et qui fera l'objet du travail est 
 
 ```<h1> My Home page</h1>```
+
+suite : [anatomie d'une page web](./02-anatomie-page-web.md)
