@@ -3,6 +3,7 @@
 ## Le pourquoi
 
 Dans le chapitre précédent, nous avons évoqué :
+
 | Type de donnée | Utilité                     |
 |----------------|-----------------------------|
 | HTML           | Structure de la page web    |
@@ -29,12 +30,12 @@ Ceci permet très simplement de représenter des objects complexes:
 
 ```json
 {  
-    uv: { 
-        nom: 'LPA2', 
-        enseignant: 'Sebastien Gadot', 
-        modalites: {
-            frequence: "tous les mardis",
-            typesDeCours: [ "cours", "TD", "TP" ]
+    "uv": { 
+        "nom": "LPA2", 
+        "enseignant": "Sebastien Gadot", 
+        "modalites": {
+            "frequence": "tous les mardis",
+            "typesDeCours": [ "cours", "TD", "TP" ]
         }
     }
 }
@@ -42,4 +43,4 @@ Ceci permet très simplement de représenter des objects complexes:
 
 Nous verrons plus tard la façon dont on utilise cette donnée et comment la récupérer/interroger le serveur via Javascript.
 
-Suite : [les verbes HTTP]:(./04-les-verbes-http.md)
+Suite : [les verbes HTTP](./04-les-verbes-http.md)
