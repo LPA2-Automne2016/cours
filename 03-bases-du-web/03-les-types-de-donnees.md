@@ -22,7 +22,7 @@ Lorsque l'on tape le début d'une phrase dans la boite de recherche google, on v
 
 Les données sont transmises dans un format appelé JSON, qui combine une très grande simplicité avec un faible encombrement sur le réseau.
 
-* Une Map sera représentée ainsi : ```{clef:'valeur', autreClef: 3}```
+* Une Map sera représentée ainsi : ```{"clef":"valeur", "autreClef": 3}```
 * Une liste sera représentée ainsi ```[1, 2, "une chaine de charactères"]```
 
 Ceci permet très simplement de représenter des objects complexes: 
