@@ -3,7 +3,7 @@
 
 ![http browser](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/images/HTTP_Steps.png)
 
-Le verbe HTTP est le premier mot de la trame échangée entre le navigateur et le servuer (ici étape 2)
+Le verbe HTTP est le premier mot de la trame échangée entre le navigateur et le serveur (ici étape 2)
 
 ## Les verbes HTTP
 [La norme HTTP](https://tools.ietf.org/html/rfc7231) crée les 8 verbes HTTP suivants, complété [par la suite](https://tools.ietf.org/html/rfc5789) par un 9eme .
