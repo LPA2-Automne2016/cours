@@ -12,11 +12,11 @@ source : https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/images/HT
 
 ![requete http](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/images/HTTP_RequestMessageExample.png)
 
-La requete contient, par ordre d'apparition :
+La requête contient, par ordre d'apparition :
 * **un Verbe (GET)**, **un chemin (/doc/test.html)**, un protocole (HTTP/1.1)
-* l'hote auquel s'adresse la requete (www.test101.com)
+* l'hôte auquel s'adresse la requete (www.test101.com)
 * les headers
-* une ligne vide pour marquer la fin de la requete
+* une ligne vide pour marquer la fin de la requête
 * un corps de message qui suit (optionnel)
 
 Plus de détails : https://tools.ietf.org/html/rfc2616
