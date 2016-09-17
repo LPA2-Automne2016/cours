@@ -7,7 +7,7 @@
 Dans un MVC, le modèle est au coeur de la donnée et de leur manipulation. 
 C'est ici qu'est concentrée toute l'intelligence de l'application. ( D'où d'ailleurs le fait qu'il n'y ait pas de rapport :-) )
 
-Le modèle va être commun à toute l'application et sera partagé avec tous les controlleurs. Une méthode en rapport avec une instance de la donnée ou bien une recherche potentiellement réutilisable sera inclue dans le modèle,  pour pouvoir s'en servir par ailleurs.
+Le modèle va être commun à toute l'application et sera partagé avec tous les controleurs. Une méthode en rapport avec une instance de la donnée ou bien une recherche potentiellement réutilisable sera inclue dans le modèle,  pour pouvoir s'en servir par ailleurs.
 
 ### Exemple 
 
@@ -19,7 +19,7 @@ Le modèle contient :
  
 Si l'on demande une fonctionnalité qui n'est accessible que si l'utilsateur est majeur, on a deux options :
 
-**Option 1** :imp: dans le controlleur :
+**Option 1** :imp: dans le controleur :
 ```ruby
 def index()
     david = User.find_by(name: 'David')
@@ -39,7 +39,7 @@ class Student < ActiveRecord::Base
   end
 end
 
-# dans le controlleur
+# dans le controleur
 def index()
     david = User.find_by(name: 'David')
     if david.major?
@@ -52,9 +52,9 @@ end
 
 ### Intérêt dans l'exemple
 A priori, il s'agit d'une ligne de code assez innocente pour vérifier que l'utilisateur est majeur ou pas...
-On pourrait donc sans trop d'impact la duppliquer dans les différents controlleurs concernés par cette protection !
+On pourrait donc sans trop d'impact la duppliquer dans les différents controleurs concernés par cette protection !
 
-A priori, oui.... Sauf que... le client veut rendre l'application accesible aussi aux USA. La bas, l'age légal est de 21 ans... Ceux qui ont eu le malheur de prendre l'option 1 doivent maintenant rouvrir tous leurs controlleurs et tout revérifier. Ceux qui ont bien fait le travail n'ont qu'à modifier le modèle pour le prendre en compte !
+A priori, oui.... Sauf que... le client veut rendre l'application accesible aussi aux USA. La bas, l'age légal est de 21 ans... Ceux qui ont eu le malheur de prendre l'option 1 doivent maintenant rouvrir tous leurs controleurs et tout revérifier. Ceux qui ont bien fait le travail n'ont qu'à modifier le modèle pour le prendre en compte !
 
 références: http://guides.rubyonrails.org/active_record_basics.html
 
