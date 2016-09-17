@@ -3,7 +3,7 @@
 ## C'est quoi le HTML ?
 
 Le HTML est le langage qui compose les pages web. L'abbréviation signifie **H**yper**T**ext**M**arkup**L**anguage. 
-Un "markup language" est un language composé de balises ouvrantes et fermantes, comme par exemple ```<h1>ceci est un titre</h1>```
+Un "markup language" est un langage composé de balises ouvrantes et fermantes, comme par exemple ```<h1>ceci est un titre</h1>```
 On retrouve le titre entouré de la balise ```<h1>``` et de sa balise fermante ```</h1>```
 
 La liste des balises possible est définie par avance, ainsi que leur comportement. Vous trouverez [ici une liste (partielle) des balises de base](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3/memento-des-balises-html), ainsi que leur utilité. 
