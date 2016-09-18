@@ -25,9 +25,10 @@ C'est pareil pour les framework de développement : tout dépend de ce qu'on a a
 * Quelle aide apporte-il au développeur ?
 * Quelles sont les plateformes qui le supportent ?
 * Quelle expérience possède-t-on dans le language ?
-* 
+ 
 Quelque exemple de Framework connus; Ecmascript, Angular, React Native.
-Mais ATTENTION ! Même si le Framework est connu, ce n'est pas forcement celui-ci qu'y va vous aidez le mieux. Il assurera surtout la fiabilité et les mises à jour régulière !
+
+Mais ATTENTION :warning: Même si le Framework est connu, ce n'est pas forcement celui-ci qu'y va vous aidez le mieux. Il assurera surtout la fiabilité et les mises à jour régulière !
 
 
 
