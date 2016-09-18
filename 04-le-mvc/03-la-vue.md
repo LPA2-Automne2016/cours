@@ -1,7 +1,7 @@
 # La vue
 ## Utilité
 Dans un MVC, la vue est chargée de l'affichage des données à destination de l'utilisateur. Il n'y a aucune intelligence dans une vue.
-Le principe d'une vue est que elle va recevoir de la part du controleur la liste des données à afficher et elle les mettra en forme.
+Le principe d'une vue est qu'elle va recevoir de la part du controleur la liste des données à afficher et elle les mettra en forme.
 
 ## Exemple d'utilisation:
 C'est là qu'on retrouve le fameux HTML. Ni le controleur ni le modèle ne s'occuppent de la façon dont doit être affichée la donnée, il s'agit du travail de la vue. 
