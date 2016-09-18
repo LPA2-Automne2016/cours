@@ -1,5 +1,6 @@
 # Introduction
 ## Présentation Générale
+
 * Nom Prénom
 * Semestre
 * Etudes précédentes
@@ -10,11 +11,11 @@
 
 ## Récapitulatif des Objectifs
 
-mettre en place un système de développement moderne orienté DevOps
+ * mettre en place un système de développement moderne orienté DevOps
+ * disposer en sortant d'un CV recrutable (avec un projet github)
+ * avancer le plus loin possible sur HTML 
+ * comprendre et appréhender XP
 
- •disposer en sortant d'un CV recrutable (avec un projet github) 
- •avancer le plus loin possible sur HTML 
- •comprendre et appréhender XP
 
 
 
