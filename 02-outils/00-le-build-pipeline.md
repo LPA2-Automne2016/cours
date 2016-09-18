@@ -4,6 +4,9 @@
 source: http://www.slideshare.net/Urbancode/enterprise-devops-scaling-build-deploy-test-release
 
 # Objectif 
-Faire progresser l'application d'Ètape en Ètape depuis le poste du dÈveloppeur vers la production, en validant chaque Ètape au passage
+Faire progresser l'application d'√©tape en √©tape depuis le poste du d√©veloppeur vers la production, en validant chaque √©tape au passage.
+C'est pour cela que l'on doit toujours cr√©er des tests afin de pouvoir valider toute les √©tapes. On peut ainsi utiliser la m√©thode du Red/Green/Refractor !
+
+Red/Gree/Refractor: https://blog.goyello.com/2011/09/13/red-green-refactor-cycle/
 
 Suite : [La gestion du code](./01-gestion-du-code.md)

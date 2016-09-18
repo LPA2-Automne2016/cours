@@ -4,6 +4,8 @@ Première évidence : :warning: **NE JAMAIS REINVENTER LA ROUE !!!** :warning:
 
 Aujourd'hui des compagnies telles que Facebook,Twitter, Google investissent des millions de $ dans la création et l'amélioration de Framework permettant des gains de productivité, il serait illusoire de vouloir rivaliser avec eux !
 
+Definition d'un Framework: http://www.techno-science.net/?onglet=glossaire&definition=1471
+
 ## Quel est le meilleur Framework ?
 
 ![boite a outil](http://www.neoma-alumni.com/upload/news/20150512103220-37941-hgdl.jpg)
@@ -23,3 +25,10 @@ C'est pareil pour les framework de développement : tout dépend de ce qu'on a a
 * Quelle aide apporte-il au développeur ?
 * Quelles sont les plateformes qui le supportent ?
 * Quelle expérience possède-t-on dans le language ?
+ 
+Quelque exemple de Framework connus; Ecmascript, Angular, React Native.
+
+Mais ATTENTION :warning: Même si le Framework est connu, ce n'est pas forcement celui-ci qu'y va vous aidez le mieux. Il assurera surtout la fiabilité et les mises à jour régulière !
+
+
+
