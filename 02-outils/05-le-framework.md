@@ -23,3 +23,8 @@ C'est pareil pour les framework de développement : tout dépend de ce qu'on a a
 * Quelle aide apporte-il au développeur ?
 * Quelles sont les plateformes qui le supportent ?
 * Quelle expérience possède-t-on dans le language ?
+* 
+## SOURCE
+
+*http://www.formation-django.fr/generalites/framework.html
+*https://fr.wikipedia.org/wiki/Framework
