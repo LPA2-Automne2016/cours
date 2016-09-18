@@ -56,7 +56,8 @@ System-wide integration testing was encouraged, initially, as a daily end-of-day
 * All code must pass all unit tests before it can be released.
 * When a bug is found tests are created before the bug is addressed (a bug is not an error in logic, it is a test that was not written)
 * Acceptance tests are run often and the results are published
-Sources
+
+ Sources
 * https://en.wikipedia.org/wiki/Extreme_programming
 
 Suite : [le build pipeline](../02-outils/00-le-build-pipeline.md)
