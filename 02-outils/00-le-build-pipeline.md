@@ -5,7 +5,7 @@ source: http://www.slideshare.net/Urbancode/enterprise-devops-scaling-build-depl
 
 # Objectif 
 Faire progresser l'application d'étape en étape depuis le poste du développeur vers la production, en validant chaque étape au passage.
-Pour cela que l'on doit toujours créer des tests afin de pouvoir valider toute les étapes. On peut ainsi utiliser la méthode du Red/Green/Refractor !
+C'est pour cela que l'on doit toujours créer des tests afin de pouvoir valider toute les étapes. On peut ainsi utiliser la méthode du Red/Green/Refractor !
 
 Red/Gree/Refractor: https://blog.goyello.com/2011/09/13/red-green-refactor-cycle/
 
