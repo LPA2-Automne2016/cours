@@ -52,9 +52,9 @@ end
 
 ### Intérêt dans l'exemple
 A priori, il s'agit d'une ligne de code assez innocente pour vérifier que l'utilisateur est majeur ou pas...
-On pourrait donc sans trop d'impact la duppliquer dans les différents controleurs concernés par cette protection !
+On pourrait donc sans trop d'impact la dupliquer dans les différents controleurs concernés par cette protection !
 
-A priori, oui.... Sauf que... le client veut rendre l'application accesible aussi aux USA. La bas, l'age légal est de 21 ans... Ceux qui ont eu le malheur de prendre l'option 1 doivent maintenant rouvrir tous leurs controleurs et tout revérifier. Ceux qui ont bien fait le travail n'ont qu'à modifier le modèle pour le prendre en compte !
+A priori, oui.... Sauf que... le client veut rendre l'application accessible aussi aux USA. Là-bas, l'âge légal est de 21 ans... Ceux qui ont eu le malheur de prendre l'option 1 doivent maintenant rouvrir tous leurs controleurs et tout revérifier. Ceux qui ont bien fait le travail n'ont qu'à modifier le modèle pour le prendre en compte !
 
 références: http://guides.rubyonrails.org/active_record_basics.html
 
