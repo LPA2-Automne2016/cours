@@ -7,7 +7,7 @@ Les headers figurent aussi bien dans la requete que dans la réponse du serveur 
 ![reponse](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/images/HTTP_ResponseMessageExample.png)
 
 ## Utilité 
-Dans les deux cas, les headers servent à véhiculer des informations utiles soient pour le serveur, soit pour le client.
+Dans les deux cas, les headers servent à véhiculer des informations utiles soit pour le serveur, soit pour le client.
 
 ### Header client
 Exemple dans la requête ci dessous :
