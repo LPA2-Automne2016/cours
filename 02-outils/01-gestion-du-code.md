@@ -1,30 +1,35 @@
 # La gestion du code: [le CVS](https://en.wikipedia.org/wiki/Version_control)
 ## L'enjeu :
-Pour un développeur et plus généralement pour une entreprise réalisant des développements, le code et au travers lui les fonctionnalités qu'il permet sont sa richesse.
-**Pour un développeur, la seule activité "rentable" est de produire du code.**
+Pour un dÃ©veloppeur et plus gÃ©nÃ©ralement pour une entreprise rÃ©alisant des dÃ©veloppements, le code et au travers lui les fonctionnalitÃ©s qu'il permet sont sa richesse.
+**Pour un dÃ©veloppeur, la seule activitÃ© "rentable" est de produire du code.**
 
-Les autres activités d'un développeur ne rapportent pas d'argent ! 
-* générer des livrables
+Les autres activitÃ©s d'un dÃ©veloppeur ne rapportent pas d'argent ! 
+* gÃ©nÃ©rer des livrables
 * installer des environnements
-* débuguer 
-* déployer des applications 
+* dÃ©buguer 
+* dÃ©ployer des applications 
  
-Ces activités sont certes obligatoires, mais aucun utilisateur ne va par exemple payer une fonctionnalité si l'application n'est pas déployée pour qu'il l'utilise. 
-Par contre, l'utilisateur ne paye pas pour une installation, il paye une fonctionnalité.
+Ces activitÃ©s sont certes obligatoires, mais aucun utilisateur ne va par exemple payer une fonctionnalitÃ© si l'application n'est pas dÃ©ployÃ©e pour qu'il l'utilise. 
+Par contre, l'utilisateur ne paye pas pour une installation, il paye une fonctionnalitÃ©.
 
-La production du code et donc sa gestion sont donc le processus clef. Tout le reste est réduit au strict minimum, car non source de valeur ajoutée.
+La production du code et donc sa gestion sont donc le processus clef. Tout le reste est rÃ©duit au strict minimum, car non source de valeur ajoutÃ©e.
 
 ## Les outils d'hier et d'aujourd'hui:
 Auparavant les gestionnaires de source permettaient une gestion "simple" du code source : exemple CVS, SVN.
-Pas d'interaction particulière: on versionne et on sauvegarde du code en mode 'en ligne'.
+Pas d'interaction particuliÃ¨re: on versionne et on sauvegarde du code en mode 'en ligne'.
 
-Aujourd'hui les outils ont évolué vers du mode hors ligne avec la possibilité de versionner et de gérer du code même lorsque le PC n'est pas au réseau. 
-Tous les gestionnaires de code proposent maintenant une très forte intégration avec les systèmes de gestions de bug, ainsi qu'une forte composante sociale. 
-Le déploiement continu constitue maintenant la colonne vertébrale de ces systèmes.
+Aujourd'hui les outils ont Ã©voluÃ© vers du mode hors ligne avec la possibilitÃ© de versionner et de gÃ©rer du code mÃªme lorsque le PC n'est pas au rÃ©seau. 
+Tous les gestionnaires de code proposent maintenant une trÃ¨s forte intÃ©gration avec les systÃ¨mes de gestions de bug, ainsi qu'une forte composante sociale. 
+Le dÃ©ploiement continu constitue maintenant la colonne vertÃ©brale de ces systÃ¨mes.
 
 ### Quelques outils modernes pour la gestion du code :
 * http://github.com
 * https://bitbucket.org/
 * https://about.gitlab.com/
  
-[Le build et les dépendances](./02-le-build-les-dependances.md)
+[Le build et les dÃ©pendances](./02-le-build-les-dependances.md)
+
+## Source
+
+*http://ricky81.developpez.com/tutoriel/cvs/introduction/
+*https://fr.wikipedia.org/wiki/Concurrent_versions_system
