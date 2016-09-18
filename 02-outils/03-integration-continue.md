@@ -28,3 +28,8 @@ Quelques sites permettant d'ajouter l'intégration continue à la gestion de cod
 * https://codeship.com/
 * https://snap-ci.com/
 * http://circleci.com/
+* 
+
+## Source
+
+*http://www-igm.univ-mlv.fr/~dr/XPOSE2012/Integration%20Continue/concept.html
