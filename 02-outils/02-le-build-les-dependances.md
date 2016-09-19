@@ -22,11 +22,11 @@ Selon les cas, il peut arriver que le même fichier/logiciel de build remplisse 
 | langage                 | Build                                 |
 |-------------------------|---------------------------------------|
 | [ruby][0] / [rails][1]  | [rake][2], [bundler][3], [gem][4]     |
-| java / [spring][5]      | [maven][6], [gradle][7] , ant[12]     |
-| nodejs                  | npm, gruntjs                          |
+| java / [spring][5]      | [maven][6], [gradle][7] , [ant][12]   |
+| nodejs                  | [npm][13], [gruntjs][15]              |
 | groovy / [grails][8]    | [gradle][7]                           |
-| scala / [play][9]       | sbt                                   |
-| php / [symfony][10]     | [composer][11]                        |
+| scala / [play][9]       | [sbt][14]                             |
+| [php][16]/[symfony][10] | [composer][11]                        |
 
 ## La morale de l'affaire:
 
@@ -52,3 +52,8 @@ Suite [L'intégration continue](03-integration-continue.md)
 [10]:https://symfony.com/
 [11]:https://wiki.gandi.net/fr/tutorials/simple/php/composer
 [12]:http://www.jmdoudoux.fr/java/dej/chap-ant.htm
+[13]:http://maxlab.fr/javascript/comprendre-et-maitriser-npm-introduction/
+[14]:http://blog.xebia.fr/2010/05/06/sbt-simple-build-tool-pour-scala/
+[15]:http://www.disko.fr/reflexions/technique/gruntjs-pour-les-nuls/
+[16]:http://php.net/
+
