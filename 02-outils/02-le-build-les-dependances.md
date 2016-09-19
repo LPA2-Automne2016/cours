@@ -1,4 +1,5 @@
 # Le build et la gestion des dépendances
+# amelioaration du cours 
 ## Contenu et utilité
 
 Le build couvre les différentes étapes suivantes:
