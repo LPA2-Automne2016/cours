@@ -17,7 +17,6 @@ git checkout -b temp                                                  //créatio
 git pull temp master                                                  //on                                                
 git status                                                                                                           
 git add 01-intro/01-presentation.md                                                                                  
-git comit                                                                                                            
 git commit                                                                                                           
 git push                                                                                                             
 git config --global push.default simple                                                                              
