@@ -1,5 +1,6 @@
 # Introduction
 ## Présentation Générale
+
 * Nom Prénom
 * Semestre
 * Etudes précédentes
@@ -14,6 +15,5 @@
 * disposer en sortant d'un CV *recrutable* (avec un projet github)
 * avancer le plus koin possible sur HTML
 * comprendre et appréhender XP
-
 
 [suite](./02-ingenieur.md)
