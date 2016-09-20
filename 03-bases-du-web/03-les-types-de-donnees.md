@@ -10,7 +10,7 @@ Dans le chapitre précédent, nous avons évoqué :
 | CSS            | Présentation de la page     |
 | Javascript     | Comportement dynamique      |
 
-Ces 3 composants s'additionnent pour former la page web telle qu'on la connait. Cependant, dans le cadre de certaines fonctionnalités d'une page web il est souvent nécessaire de faire appel à de la donnée qui ne fait pas partie de la page web en tant que telle, mais doit être chargée depuis l'extérieur.
+Ces 3 composants s'additionnent pour former la page web telle qu'on la connait. Cependant, dans le cadre de certaines fonctionnalités d'une page web, il est souvent nécessaire de faire appel à de la donnée qui ne fait pas partie de la page web en tant que telle, mais qui doit être chargée depuis l'extérieur.
 
 On fait alors transiter de la donnée "pure" sur le réseau. L'objectif de ce transfert est de faire circuler uniquement la donnée et non pas l'intégralité de la page web, ceci afin de gagner en temps de transfert et/ou en fluidité.
 

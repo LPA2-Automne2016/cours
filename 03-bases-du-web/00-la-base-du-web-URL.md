@@ -12,7 +12,7 @@ In the Land of Mordor where the Shadows lie.<BR/></p>
 ## Signification
 URL signifie *"Uniform Resource Locator"*. Comme son nom l'indique l'URL sert de point d'entrée sur internet et sert à localiser des ressources (par ressource comprenez pages web dans notre cas).
 
-**Attention**: les URLS ne se limitent pas à internet. 
+**Attention**: les URLs ne se limitent pas à internet. 
 
 Par exemple : *jdbc:postgresql://mydatabase.mydomain.com::5740/accounting* est une url valable. Elle ne représente pas une page web, mais une connexion à une base postgresql.
 
