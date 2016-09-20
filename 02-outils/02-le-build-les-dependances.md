@@ -1,42 +1,43 @@
-# Le build et la gestion des dépendances
-## Contenu et utilité
+# Le build et la gestion des dÃ©pendances
+## Contenu et utilitÃ©
 
-Le build couvre les différentes étapes suivantes:
-* la mise à jour et le téléchargement des dépendances
-* la constitution des binaires utiles pour le déploiement
-* le lancement des différentes suites de test : ( unitaire, intégration, acceptation)
+Le build couvre les diffÃ©rentes Ã©tapes suivantes:
+* la mise Ã  jour et le tÃ©lÃ©chargement des dÃ©pendances
+* la constitution des binaires utiles pour le dÃ©ploiement
+* le lancement des diffÃ©rentes suites de test : ( unitaire, intÃ©gration, acceptation)
  
-Il peut par ailleurs dans certains cas inclure des tâches de déploiement du code et/ou des utilitaires utilisés pour des actions répétitives dans les travaux de développement. 
-Comme évoqué précédement, l'objectif est d'automatiser ce qui peut l'être pour que le temps soit le plus possible passé sur les activités génératrices de valeur : le développement proprement dit.
+Il peut par ailleurs dans certains cas inclure des tÃ¢ches de dÃ©ploiement du code et/ou des utilitaires utilisÃ©s pour des actions rÃ©pÃ©titives dans les travaux de dÃ©veloppement. 
+Comme Ã©voquÃ© prÃ©cÃ©dement, l'objectif est d'automatiser ce qui peut l'Ãªtre pour que le temps soit le plus possible passÃ© sur les activitÃ©s gÃ©nÃ©ratrices de valeur : le dÃ©veloppement proprement dit.
 
-## Choix du système de build
+## Choix du systÃ¨me de build
 
-Le choix du système de build est très fortement influencé par le choix du framework et de la technologie de développement.
-En effet chaque langage/framework est livré avec son build, le choix est donc assez restreint.
+Le choix du systÃ¨me de build est trÃ¨s fortement influencÃ© par le choix du framework et de la technologie de dÃ©veloppement.
+En effet chaque langage/framework est livrÃ© avec son build, le choix est donc assez restreint.
 
-## Quelques logiciels de build/gestion de dépendance
+## Quelques logiciels de build/gestion de dÃ©pendance
 
-Selon le langage et le framework, parfois la gestion des dépendances est externalisée par rapport au build proprement dit.
-Selon les cas, il peut arriver que le même fichier/logiciel de build remplisse les deux fonctions
+Selon le langage et le framework, parfois la gestion des dÃ©pendances est externalisÃ©e par rapport au build proprement dit.
+Selon les cas, il peut arriver que le mÃªme fichier/logiciel de build remplisse les deux fonctions
 
 | langage                 | Build                                 |
 |-------------------------|---------------------------------------|
 | [ruby][0] / [rails][1]  | [rake][2], [bundler][3], [gem][4]     |
-| java / [spring][5]      | [maven][6], [gradle][7] , ant         |
+| java / [spring][5]      | [maven][6], [gradle][7] , ant , GAnt, |
+|                         |  EasyAnt, Ivy                         | 
 | nodejs                  | npm, gruntjs                          |
 | groovy / [grails][8]    | [gradle][7]                           |
 | scala / [play][9]       | sbt                                   |
 
 ## La morale de l'affaire:
 
-![pourquoi faire simple quand c'est si simple de faire compliqué](http://img3.bibamagazine.fr/var/bibamagazine/storage/images/media/images/culture/20150505-10-citations/les-shadoks-8/292381-1-fre-FR/Les-Shadoks-8_max1024x768.jpg)
+![pourquoi faire simple quand c'est si simple de faire compliquÃ©](http://img3.bibamagazine.fr/var/bibamagazine/storage/images/media/images/culture/20150505-10-citations/les-shadoks-8/292381-1-fre-FR/Les-Shadoks-8_max1024x768.jpg)
 
 
-Utiliser un système de build lié à son écosystème de développement **peut au premier abord paraître inutile** : en effet on pourrait très bien tout faire à la main ?? 
+Utiliser un systÃ¨me de build liÃ© Ã  son Ã©cosystÃ¨me de dÃ©veloppement **peut au premier abord paraÃ®tre inutile** : en effet on pourrait trÃ¨s bien tout faire Ã  la main ?? 
 
-**FAUX : il y a une vie après l'UV de LPA2 !!! si vous devez reprendre le code 6 mois plus tard, vous ne vous rappelerez plus de comment tout installer.** Mieux vaut passer quelques heures de plus sur le sujet aujourd'hui et s'épargner des jours plus tard.
+**FAUX : il y a une vie aprÃ¨s l'UV de LPA2 !!! si vous devez reprendre le code 6 mois plus tard, vous ne vous rappelerez plus de comment tout installer.** Mieux vaut passer quelques heures de plus sur le sujet aujourd'hui et s'Ã©pargner des jours plus tard.
 
-Suite [L'intégration continue](03-integration-continue.md)
+Suite [L'intÃ©gration continue](03-integration-continue.md)
 
 [0]:https://www.ruby-lang.org/fr/
 [1]:http://rubyonrails.org/
