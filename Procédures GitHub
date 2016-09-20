@@ -1,0 +1,26 @@
+Pour mettre à jour votre fork :
+
+-New pull request
+-base fork : yourUsername/cours OU yourUsername/projet
+-head fork : LPA2-Automne2016/cours OU LPA2-Automne2016/projet
+-create pull request
+-merge pull request
+
+
+
+Résoudre un problème de conflits : 
+
+git clone https://github.com/LPA2-Automne2016/cours.git               //on clone le répertoire GitHub                                               
+cd cours                                                              //on va dans le dossier cours                                               
+git remote add temp https://github.com/safaael/cours.git              ??                  
+git checkout -b temp                                                  //création d'une nouvelle branche appelée temp
+git pull temp master                                                  //on                                                
+git status                                                                                                           
+git add 01-intro/01-presentation.md                                                                                  
+git comit                                                                                                            
+git commit                                                                                                           
+git push                                                                                                             
+git config --global push.default simple                                                                              
+git push                                                                                                             
+git push --set-upstream origin temp                                                                                  
+y      
