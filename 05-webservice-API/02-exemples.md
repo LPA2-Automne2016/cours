@@ -8,7 +8,7 @@ Communiquer ? Mais pour quoi faire ?
 
 ## Qu'est-ce qu'une [API](https://en.wikipedia.org/wiki/Application_programming_interface)
 
-*An API (**A**pplication **P**rogramming **I**nterface) is  a set of functions and procedures that allow the creation of applications which access the features or data of an operating system, application, or other service.*
+*An API (**Application Programming Interface**) is  a set of functions and procedures that allow the creation of applications which access the features or data of an operating system, application, or other service.*
 
 Une API est en quelque sorte un contrat que l'application passe avec les personnes de l'extérieur qui voudraient utiliser les services de l'application. Par nécessité, elle doit être documentée et stable.
 
