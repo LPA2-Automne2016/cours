@@ -12,7 +12,7 @@ L'avantage est énorme : tous les langages savent "parler" HTTP, ils savent tous
 
 Résultat **XML-RPC est né, il est utilisable par tout le monde, quelque soit le langage de programmation et ou son OS**
 
-XML-RPC a ensuite évolué SOAP
+XML-RPC a ensuite évolué pour devenir SOAP
 
 ![XML-RPC](https://img.pokemondb.net/artwork/tentacool.jpg) ![->](https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-right-b-128.png) ![SOAP](https://img.pokemondb.net/artwork/tentacruel.jpg)
 
