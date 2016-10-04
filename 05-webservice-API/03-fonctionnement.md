@@ -45,4 +45,5 @@ notifier.ping "Hello World"
 ```
 
 ## Note sur les dépendances
-
+Lire cet article qui explique parfaitement le dilemme :
+http://www.mikeperham.com/2016/02/09/kill-your-dependencies/
