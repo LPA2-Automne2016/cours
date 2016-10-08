@@ -31,6 +31,22 @@ if (window.XMLHttpRequest) {
 Il fallait créer un activeX pour pouvoir gérér cet appel. Comme les PC avec IE6 n'ont pas disparus instantanément à la sortie de IE7, cela signifie concrètement que pendant les années suivantes, il fallait encore gérer cette distinction !
 Pour un développeur, supporter la panoplie des différents navigateurs en service relevait de la gageure !
 
-Suite [le monde avant Chrome et ES5](./02-le-js-avant-chrome.md)
+## LA caractéristique principale.
+Ou ce qu'il faut savoir pour comprendre comment fonctionne le JS:
+
+source : https://developer.mozilla.org/en-US/docs/Tools/Performance/Scenarios/Intensive_JavaScript
+>By default the browser uses a single thread to run all the JavaScript in your page as well as to perform layout, reflows, and garbage collection. This means that long-running JavaScript functions can block the thread, leading to an unresponsive page and a bad user experience.
+
+**ATTENTION : demarrez un nouveau navigateur, car ce test va le planter !**
+
+Démonstration : https://jsfiddle.net/c5esk9zp/1/
+
+## Conséquence sur le code :
+Tout le code JS organiser de façon à ne pas bloquer le navigateur : Les actions potentiellement longues que l'on doit enchainer utilisent en interne la notion de callback pour déclencher l'évenement suivant.
+Cela donne parfois lieu à la fameuse "pyramid of doom" :
+
+![pyramide of doom](http://maangalabs.com/images/posts/8/pyr-1.png)
+
+Suite [le monde avant Chrome et ES5](./02-le-js-avant-ECMAScript5.md)
 
 [1]:https://en.wikipedia.org/wiki/JavaScript
