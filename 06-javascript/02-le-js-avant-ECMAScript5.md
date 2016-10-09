@@ -18,3 +18,40 @@ Il arrive souvent de ne plus savoir faire la part des choses entre ce qui est du
 
 Exemple ```$('#myId')``` n'est valide que si JQuery est chargé ! 
 Du fait des gains de temps que représente l'utilisation de JQuery par rapport à du JS natif, la très grande majorité des exemples donnés utilisera Jquery. **Gardez le bien à l'esprit ! Il s'agit d'exemples liés à une librairie, que vous n'aurez peut être pas dans la vraie vie !**
+
+# Introduction à JQuery
+JQuery a commencé à ses débuts avec une promesse majeure : permettre au développeur de ne pas se préoccupper de savoir sur quel navigateur son code  sera exécuté.
+
+## Ses forces:  
+* Une gestion de l'ajax indépendante du navigateur
+* Des sélecteurs très perfectionnés
+
+## Exemple 
+https://jsfiddle.net/ts79gb0q/
+
+```html
+<input id="myInput">
+<button>click me !</button>
+<div id='result'>
+</div>
+```
+
+```javascript
+$("button").click(function() {
+  var txt = $("#myInput").val();
+  alert(txt);
+ 	$.ajax({  url: "/echo/json/",
+            type: "POST",
+            contentType: "application/json", // send as JSON
+            data: {json: JSON.stringify({ value: txt})},
+            success: function(data) {
+               console.log(data);
+               $('#result').html(data.value);
+            }
+         });
+});
+```
+
+Tout cela a changé avec l'arrivée de l'ECMASCRIPT5, [Suite...](./03-le-JS-apres-ECMA5.md)
+
+[1]:https://en.wikipedia.org/wiki/List_of_JavaScript_libraries
