@@ -7,10 +7,10 @@ De cette histoire vont naitre tout un écosystème de framework javascript dont 
 
 ## Quelques [librairies javascript][1] :
 Par ordre chronologique d'apparition :
-* [Jquery](https://jquery.com/) (2006)
+* [JQuery](https://jquery.com/) (2006)
 * [MooTools](http://mootools.net/)(2007)
 
-La librairie la plus répandue est de loin jquery, il est utilisé sur près de 65% des sites avec de gros traffics.
+La librairie la plus répandue est de loin JQuery, elle est utilisée sur près de 65% des sites avec de gros traffics.
 
 **NB: JQuery est une librairie js, il ne faut pas confondre avec le JS de base du navigateur**
 
@@ -20,7 +20,7 @@ Exemple ```$('#myId')``` n'est valide que si JQuery est chargé !
 Du fait des gains de temps que représente l'utilisation de JQuery par rapport à du JS natif, la très grande majorité des exemples donnés utilisera Jquery. **Gardez le bien à l'esprit ! Il s'agit d'exemples liés à une librairie, que vous n'aurez peut être pas dans la vraie vie !**
 
 # Introduction à JQuery
-JQuery a commencé à ses débuts avec une promesse majeure : permettre au développeur de ne pas se préoccupper de savoir sur quel navigateur son code  sera exécuté.
+JQuery a commencé à ses débuts avec une promesse majeure : permettre au développeur de ne pas se préoccupper de savoir sur quel navigateur son code sera exécuté.
 
 ## Ses forces:  
 * Une gestion de l'ajax indépendante du navigateur
