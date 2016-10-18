@@ -15,19 +15,19 @@ Une API est en quelque sorte un contrat que l'application passe avec les personn
 **ATTENTION** API ne veut pas systématiquement dire webservice ! Ne pas confondre. Dans la suite de nos travaux, les API seront très souvent utilisées au travers d'un webservice.
 
 ## Quelques cas d'usage
-Dans le cadre du devoir de cette semaine, nous venons de mettre en place une intégration entre github et travis. Sans le savoir, vous venez de mettre en mouvement un certain nombre de communications entre les différents éléments du projet.
+Dans le cadre du devoir de cette semaine, nous venons de mettre en place une intégration entre GitHub et Travis. Sans le savoir, vous venez de mettre en mouvement un certain nombre de communications entre les différents éléments du projet.
 
 * **Comment travis-CI sait-il que github vient d'enregistrer un commit ?**
-    * Car Github sur réception d'un push va utiliser l'API/webservice de travis pour lui demander de déclencher un build : https://docs.travis-ci.com/user/triggering-builds
+    * Car Github sur réception d'un push va utiliser l'API/webservice de Travis pour lui demander de déclencher un build : https://docs.travis-ci.com/user/triggering-builds
 
 * **Comment travis-CI fait-il pour déployer vers heroku ?**
-    * via l'API de heroku https://devcenter.heroku.com/categories/platform-api
+    * via l'API de Heroku https://devcenter.heroku.com/categories/platform-api
 
 * **Comment Slack fait-il pour recevoir les notifications lorsque quelqu'un modifie github ?**
     * A votre avis ?
 
 ## Pour un développeur les API/webservices servent à quoi ?
-![reponse de norman](http://www.etaletaculture.fr/wp-content/uploads/2015/12/une-reponse-de-normands.jpg)
+![réponse de normands](http://www.etaletaculture.fr/wp-content/uploads/2015/12/une-reponse-de-normands.jpg)
 
 Tout va dépendre de l'application que l'on développe et des demandes des utilisateurs. De nos jours, il y a des webservices pour tout !
 Une des tendances lourde du marché concerne les réseaux sociaux. Quasi tout le monde veut/doit être présent sur les réseaux sociaux :
@@ -35,6 +35,6 @@ Une des tendances lourde du marché concerne les réseaux sociaux. Quasi tout le
 * https://dev.twitter.com/rest/public
 * https://developers.google.com/+/domains/api/circles
 
-Il existe aussi tout un monde plus lié au métier de l'informatique, ces webservices vont par exemple offrir des services aux développeurs pour leur permettre de déployer plus facilement leur application, exemple: Travis/github/heroku
+Il existe aussi tout un monde plus ou moins lié au métier de l'informatique, ces webservices vont par exemple offrir des services aux développeurs pour leur permettre de déployer plus facilement leur application, exemple: Travis/github/heroku
 
 Suite : [le fonctionnement](./03-fonctionnement.md)
