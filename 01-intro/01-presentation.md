@@ -15,5 +15,6 @@
 * disposer en sortant d'un CV *recrutable* (avec un projet github)
 * avancer le plus loin possible sur HTML
 * comprendre et appréhender XP
+* Juste un test
 
 [suite](./02-ingenieur.md)
