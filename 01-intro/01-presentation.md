@@ -11,9 +11,4 @@
 
 ## Récapitulatif des Objectifs
 
-* mettre en place un système de développement moderne orienté DevOps
-* disposer en sortant d'un CV *recrutable* (avec un projet github)
-* avancer le plus loin possible sur HTML
-* comprendre et appréhender XP
-
 [suite](./02-ingenieur.md)
