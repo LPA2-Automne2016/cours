@@ -32,7 +32,7 @@ Ceci est le strict minimun pour une page web valide :
 **ATTENTION** Html est relativement contraignant : toute balise ouverte (ex: ```<h1>```) doit obligatoirement être fermée ensuite (```</h1>```).
 Petite exception : une balise comme celle ci ```<meta charset="utf-8" />``` (notez le / à la fin de la balise) est à la fois ouvrante et fermante. 
 
-les deux écritures sont donc équivalentes : ```<BR><BR/>``` est la meme chose que ```<BR/>```
+les deux écritures sont donc équivalentes : ```<BR></BR>``` est la meme chose que ```<BR/>```
 
 ## Le CSS dans tout ca ?
 
