@@ -27,3 +27,6 @@ Les applications que nous utilisons comme par exemple travis ou codeanywhere uti
 * instagram: https://www.instagram.com/developer/authentication/
 * heroku: https://devcenter.heroku.com/articles/oauth
 * amazon: https://developer.amazon.com/public/community/post/Tx3NJ8243NI3ONM/Announcing-Login-with-Amazon-an-authentication-service-to-securely-connect-with.html
+
+
+Autre moyen d'authentification : [jwt](./02-jwt.md)
