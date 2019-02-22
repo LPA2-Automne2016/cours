@@ -5,7 +5,7 @@
 http://evolutionofweb.appspot.com/
 
 Le javascript apparait aux alentours de 1994, mais au début il n'est que très peu présent et très peu supporté.
-Il a longtemps été la source d'un conflit entre les différents navigateurs, chaque éditeur ayant sa propre version de Javascript, avec ses propres instruction et ses avantages et faiblesses.
+Il a longtemps été la source d'un conflit entre les différents navigateurs, chaque éditeur ayant sa propre version de Javascript, avec ses propres instructions, ses avantages et ses faiblesses.
 Il faut attendre la cinquième version du standard ECMA (es5) pour que les choses se stabilisent et convergent enfin !
 Nous sommes alors aux alentours de 2011 :
 
@@ -17,7 +17,7 @@ http://kangax.github.io/compat-table/es5/
 
 ![casse tete](http://static.canalblog.com/storagev1/littlesun.canalblog.com/images/marteau.gif)
 
-Avant IE7 (pour rappel année 2006), pour un simple appel AJAX :
+Avant IE7 (pour rappel : année 2006), pour un simple appel AJAX :
 ``` javascript
 var xhttp;
 if (window.XMLHttpRequest) {
@@ -28,7 +28,7 @@ if (window.XMLHttpRequest) {
 }
 // 6 lignes, toujours pas de requête....
 ```
-Il fallait créer un activeX pour pouvoir gérér cet appel. Comme les PC avec IE6 n'ont pas disparus instantanément à la sortie de IE7, cela signifie concrètement que pendant les années suivantes, il fallait encore gérer cette distinction !
+Il fallait créer un activeX pour pouvoir gérér cet appel. Comme les PCs avec IE6 n'ont pas disparus instantanément à la sortie de IE7, cela signifie concrètement que pendant les années suivantes, il fallait encore gérer cette distinction !
 Pour un développeur, supporter la panoplie des différents navigateurs en service relevait de la gageure !
 
 ## LA caractéristique principale.
@@ -42,7 +42,7 @@ source : https://developer.mozilla.org/en-US/docs/Tools/Performance/Scenarios/In
 Démonstration : https://jsfiddle.net/c5esk9zp/1/
 
 ## Conséquence sur le code :
-Tout le code JS organiser de façon à ne pas bloquer le navigateur : Les actions potentiellement longues que l'on doit enchainer utilisent en interne la notion de callback pour déclencher l'évenement suivant.
+Tout le code JS doit être organisé de façon à ne pas bloquer le navigateur : Les actions potentiellement longues que l'on doit enchainer utilisent en interne la notion de callback pour déclencher l'évènement suivant.
 Cela donne parfois lieu à la fameuse "pyramid of doom" :
 
 ![pyramide of doom](http://maangalabs.com/images/posts/8/pyr-1.png)
