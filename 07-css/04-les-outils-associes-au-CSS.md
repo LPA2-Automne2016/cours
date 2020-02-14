@@ -49,14 +49,15 @@ Cela se traduit par le CSS suivant, après compilation :
 * Ecriture du CSS de façon hiérarchique.
 
 ## Les principaux prépreprocesseurs :
-### SASS
+
+* SASS
 
 http://sass-lang.com/
 
 SASS est apparu en 2006, dans la lignée des avancées et de la ligne introduite par RAILS.
 C'est le preprocesseur historique. Il est écrit en ruby et est intégré en standard dans RAILS.
 
-### LESS
+* LESS
 
 http://lesscss.org/
 
