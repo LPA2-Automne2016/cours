@@ -14,7 +14,7 @@ Il y a suffisamment de choix pour réussir à trouver chaussure à son pied.
 
 http://getbootstrap.com/
 
-![bootstrap exemple](https://startbootstrap.com/img/templates/full-width-pics.jpg)
+![bootstrap exemple](https://getbootstrap.com/docs/4.0/examples/screenshots/checkout.png)
 
 Bootstrap est une véritable boite à outil, incluant les JS permettant la gestion des animations et bien d'autres choses.
 C'est un des frameworks les plus complets et les plus populaires.
