@@ -42,3 +42,4 @@ le W3C vient d'annoncer le passage de WASM en tant que recommandation officielle
 ## Références :
 * l'histoire du JS : https://resin.io/blog/happy-18th-birthday-javascript/
 * https://learntocodetogether.com/javascript-es6-history/
+* adoption de WASM par le W3C: https://www.w3.org/2019/12/pressrelease-wasm-rec.html.en
