@@ -6,7 +6,7 @@ Aujourd'hui des compagnies telles que Facebook,Twitter, Google investissent des 
 
 ## Quel est le meilleur Framework ?
 
-![boite a outil](http://www.neoma-alumni.com/upload/news/20150512103220-37941-hgdl.jpg)
+![boite a outil](https://clipartstation.com/wp-content/uploads/2017/11/boite-%C3%A0-outils-clipart-2.jpg)
 
 **Ca dépend.....**
 
@@ -23,3 +23,7 @@ C'est pareil pour les framework de développement : tout dépend de ce qu'on a a
 * Quelle aide apporte-il au développeur ?
 * Quelles sont les plateformes qui le supportent ?
 * Quelle expérience possède-t-on dans le language ?
+
+## Quelques frameworks web
+
+![Frameworks](https://github.com/mraible/history-of-web-frameworks-timeline/raw/master/history-of-web-frameworks-timeline.png)
