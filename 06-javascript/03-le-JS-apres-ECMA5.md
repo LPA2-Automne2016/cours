@@ -30,13 +30,15 @@ Les fers-de-lance de cette vague :
 
 De plus, avec l'apparition de V8, le moteur JS de Chrome,  Ryan Dahl a eu l'idée de l'extraire pour en faire un serveur d'application. L'idée étant de permettre aux développeurs de développer leur applicaiton de A à Z en JS, que ce soit sur le serveur our le client !
 
-# Le futur : ECMA6
-![peinture fraiche](http://www.pro-signalisation.fr/21225-product_prosignalisation/chevalet-caution-peinture-fraiche.jpg?frz-v10)
+# Le Javascript d'aujourd'hui
 
-Le nouveau standard ECMA6 a été validé en 2015, il est en cours d'implémentation dans les navigateurs, et va apporter beaucoup de nouveautés pour faciliter encore le développement JS
+Le javascript d'aujourd'hui est maintenant piloté par les évolutions de l'ECMA, qui sont implémentées au fur et à mesure dans tous les navigateurs. Il a évolué pour ajouter la notion de classe, permettant ainsi aux développeurs Orienté Objet de se trouver en terrain famillier. Le langage est maintenant en train de rentrer dans une période de maturité.
 
-Liste des évolutions: http://es6-features.org/
+# Le futur
+
+le W3C vient d'annoncer le passage de WASM en tant que recommandation officielle, lui donnant du même titre le statut de "Standard de l'internet". Cela ouvre la porte à la compilation bas niveau ( pensez assembleur ), effaçant du même coup les barrières entre un client lourd et un navigateur, puisqu'avec WASM, les programmeurs ont maintenant accès à tout ce qu'il pouvaient faire en C dans un client lourd !
 
 
 ## Références :
 * l'histoire du JS : https://resin.io/blog/happy-18th-birthday-javascript/
+* https://learntocodetogether.com/javascript-es6-history/
