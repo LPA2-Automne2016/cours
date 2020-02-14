@@ -16,7 +16,7 @@ On fait alors transiter de la donnée "pure" sur le réseau. L'objectif de ce tr
 
 **Exemple d'utilisation :**
 
-Lorsque l'on tape le début d'une phrase dans la boite de recherche google, on vous propose le reste de la phrase. La page n'est pas rechargée et elle ne contient pas toutes les possibilités (elle mettrait 2 jours à charger :-) ). Cette technologie s'appelle l'[AJAX](http://www.w3schools.com/ajax/) et permet de charger des données en arrière plan.
+Lorsque l'on tape le début d'une phrase dans la boite de recherche google, on vous propose le reste de la phrase. La page n'est pas rechargée et elle ne contient pas toutes les possibilités (elle mettrait 2 jours à charger :-) ). Cette technologie s'appelle l'[AJAX](https://www.w3schools.com/xml/ajax_intro.asp) et permet de charger des données en arrière plan.
 
 ## Le comment 
 
